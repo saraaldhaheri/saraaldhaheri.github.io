@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: Sara Aldhaheri
+email: aldhaheri.smk@gmail.con
+github_username: saraaldhaheri
+
+markdown: kramdown
+theme: minima
