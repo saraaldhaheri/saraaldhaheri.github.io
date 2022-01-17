@@ -1,6 +1,6 @@
-title: Sara Aldhaheri
-email: aldhaheri.smk@gmail.con
-github_username: saraaldhaheri
+# title: Sara Aldhaheri
+# email: aldhaheri.smk@gmail.con
+# github_username: saraaldhaheri
 
-markdown: kramdown
-theme: minima
+# markdown: kramdown
+theme: jekyll-theme-minimal
